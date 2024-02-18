@@ -79,4 +79,4 @@ ASSOCIATION RULES FOR EMPLOYEE TABLE:
 
 
 ### RESULT: 
-Thus this program has been successfully executed.
+Thus the Association Rules for Employee dataset using Apriori Algorithm program has been successfully executed.
