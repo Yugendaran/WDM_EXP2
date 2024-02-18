@@ -1,12 +1,18 @@
-### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
-### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
+### EX-NO 02  Generating Association Rules for Employee dataset using Apriori Algorithm.
+
+### DATE:17/02/2024.
+
+### AIM: 
+To generate associate rules for the employee dataset using Apriori Algorithm.
+
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
 relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered
 in databases using different measures of interestingness. In market basket analysis association rules are used and they
 are also employed in many application areas including Web usage mining, intrusion detection and bioinformatics.
+
 Creation of Buying Table:
+
 ### Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Buying Table.
@@ -42,6 +48,15 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+BUYING TABLE:
+![image](https://github.com/Yugendaran/WDM_EXP2/assets/128135616/0bc7d723-69ec-4931-9b95-e95493b252b6)
+
+BANKING TABLE:
+![image](https://github.com/Yugendaran/WDM_EXP2/assets/128135616/bb2dc73b-1adb-4bc6-aa49-a5e5b33a2a36)
+
+EMPLOYEE TABLE:
+![image](https://github.com/Yugendaran/WDM_EXP2/assets/128135616/a43e396d-dfda-42d7-9d10-b7d4328c8fbc)
+
 
 
 ### Procedure for Association Rules:
@@ -53,5 +68,15 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+ASSOCIATION RULES FOR BUYING TABLE:
+![image](https://github.com/Yugendaran/WDM_EXP2/assets/128135616/82bc0ae9-a920-4847-a336-3d2bf940822f)
+
+ASSOCIATION RULES FOR BANKING TABLE:
+![image](https://github.com/Yugendaran/WDM_EXP2/assets/128135616/eb97d629-800d-493e-96d1-2d495eb41778)
+
+ASSOCIATION RULES FOR EMPLOYEE TABLE:
+![image](https://github.com/Yugendaran/WDM_EXP2/assets/128135616/804641cf-7fec-4690-a09d-4d72451372be)
+
 
 ### RESULT: 
+Thus this program has been successfully executed.
